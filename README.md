@@ -6,7 +6,8 @@ The share it app is managed to allow users to share and manage datas such as fil
 or images through an app highly secured that encrypt every processed datas.   
 
 © EPSI Workshop I1 2021-2020
-
+ 
+ 
 ## Setup project
 
 You need npm v^7.0.0 to use workspaces
